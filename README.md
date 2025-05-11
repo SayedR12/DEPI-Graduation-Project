@@ -60,6 +60,8 @@ Python NoteBook -----> EMPLOYEE CLEANED.
 
 Tableau Dashboards -----> Final Employee Dashboards.
 
+HR INSIGHTS -----> Insights and Recommendations.
+
 
 🚀 Tools Used
 
