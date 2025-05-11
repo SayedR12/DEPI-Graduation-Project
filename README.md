@@ -58,10 +58,11 @@ Cleaned Dataset -----> Employee GRAD Cleaned (3).
 
 Python NoteBook -----> EMPLOYEE CLEANED.
 
-Tableau Dashboards -----> Final Employee dashboards.
+Tableau Dashboards -----> Final Employee Dashboards.
 
 
 🚀 Tools Used
+
 Python (Pandas, Matplotlib, Seaborn).
 
 Tableau.
