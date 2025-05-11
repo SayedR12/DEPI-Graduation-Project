@@ -1,13 +1,51 @@
 # DEPI-Graduation-Project
 
-Employee GRAD -----> Original Dataset.
+📁 Project Overview
+This project focuses on cleaning, analyzing, forecasting, and visualizing employee data to support data-
+driven decisions in HR. It includes extensive preprocessing in Python and interactive dashboards built in Tableau.
 
 
-Employee GRAD Cleaned -----> dataset after clean.
+🔧 Data Preprocessing (Python)
+Initial State: No missing values or duplicated entries.
+
+Issues Found:
+Incorrect data types.
+Outliers affecting numerical fields.
+
+Actions Taken :
+Converted numerical columns into categorical labels (e.g., salary bands, satisfaction levels).
+Removed or handled outliers where necessary.
+
+📊 Exploratory Data Analysis (EDA)
+Performed through Python to answer key HR-related questions, such as :
+
+What factors contribute most to employee attrition?
+Is there a relationship between salary and job satisfaction ?
+What departments have the highest turnover?
 
 
-EMPLOYEE CLEANED.IPYNB ------> NOTEBOOK FOR CLEANNING BY PYTHON(PANDAS -NUMPY-MATPLOTLIP-SEABORN) & questions & Forcasting.
+📈 Forecasting
+Used time-series forecasting methods to predict future employee attrition and hiring trends.
 
-Final Employee Dashboard -----> DASHboards by Tableau 
+📉 Dashboards (Tableau)
+Created 4 interactive dashboards to visualize :
+Salary Analysis – Distribution and trends across departments.
+Employee Attrition – Patterns by age, job role, satisfaction, etc.
+Employee Demographics – General employee statistics.
+Satisfaction & Promotion – Insights into employee happiness and career growth.
+
+
+📂 Files Included
+Original Dataset ----->
+Cleaned Dataset ----->
+Python NoteBook ----->
+Tableau Dashboards ----->
+
+
+🚀 Tools Used
+Python (Pandas, Matplotlib, Seaborn).
+Tableau.
+Jupyter Notebook.
+
 
 
