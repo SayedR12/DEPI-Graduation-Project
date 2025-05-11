@@ -33,7 +33,9 @@ What departments have the highest turnover?
 
 
 📈 Forecasting
+
 Used time-series forecasting methods to predict future employee attrition and hiring trends.
+
 
 📉 Dashboards (Tableau)
 
